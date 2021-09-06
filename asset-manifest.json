@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Jsank08/InfiniteScrollCotact/static/css/main.f3263778.chunk.css",
+    "main.js": "/Jsank08/InfiniteScrollCotact/static/js/main.9925f4c0.chunk.js",
+    "main.js.map": "/Jsank08/InfiniteScrollCotact/static/js/main.9925f4c0.chunk.js.map",
+    "runtime-main.js": "/Jsank08/InfiniteScrollCotact/static/js/runtime-main.f0c76996.js",
+    "runtime-main.js.map": "/Jsank08/InfiniteScrollCotact/static/js/runtime-main.f0c76996.js.map",
+    "static/css/2.c490997a.chunk.css": "/Jsank08/InfiniteScrollCotact/static/css/2.c490997a.chunk.css",
+    "static/js/2.9aacf98b.chunk.js": "/Jsank08/InfiniteScrollCotact/static/js/2.9aacf98b.chunk.js",
+    "static/js/2.9aacf98b.chunk.js.map": "/Jsank08/InfiniteScrollCotact/static/js/2.9aacf98b.chunk.js.map",
+    "static/js/3.5c8aa61a.chunk.js": "/Jsank08/InfiniteScrollCotact/static/js/3.5c8aa61a.chunk.js",
+    "static/js/3.5c8aa61a.chunk.js.map": "/Jsank08/InfiniteScrollCotact/static/js/3.5c8aa61a.chunk.js.map",
+    "index.html": "/Jsank08/InfiniteScrollCotact/index.html",
+    "static/css/2.c490997a.chunk.css.map": "/Jsank08/InfiniteScrollCotact/static/css/2.c490997a.chunk.css.map",
+    "static/css/main.f3263778.chunk.css.map": "/Jsank08/InfiniteScrollCotact/static/css/main.f3263778.chunk.css.map",
+    "static/js/2.9aacf98b.chunk.js.LICENSE.txt": "/Jsank08/InfiniteScrollCotact/static/js/2.9aacf98b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0c76996.js",
+    "static/css/2.c490997a.chunk.css",
+    "static/js/2.9aacf98b.chunk.js",
+    "static/css/main.f3263778.chunk.css",
+    "static/js/main.9925f4c0.chunk.js"
+  ]
+}
